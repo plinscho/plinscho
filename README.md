@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I'm Paul 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · 42 Barcelona Student · Curious Builder</b><br>
-  <i>Solving problems from scratch — and learning fast in the process.</i>
+  <b>Aspiring Backend Developer · 42 Barcelona Student · Business and management</b><br>
+  <i>Solving problems from scratch — and learning in the process.</i>
 </p>
 
 ---
@@ -23,8 +23,9 @@ This foundation has helped me build a strong mental model of how software intera
 ## 🔧 Tech Stack
 
 ```bash
-Languages:       C, C++, JavaScript - React (basic), Python, Bash
-Tools:           Docker, Git, GitHub Actions, Postman
+Languages:       C, C++, JavaScript (basic), Python, PostgreSQL, Bash
+Frameworks:      Django, React
+Tools:           Docker, nginx, Wordpress, Git/Github, Postman, Linux
 ```
 ## 📈 Currently Exploring
 
