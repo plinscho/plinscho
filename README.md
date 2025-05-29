@@ -1,14 +1,14 @@
-<h1 align="center">Hey there! I'm Paul 👋</h1>
+<h1 align="center">Hey there! I'm Paulus 👋</h1>
 
 <p align="center">
-  <b>Aspiring Backend Developer · 42 Barcelona Student · Business and management</b><br>
+  <b>Backend Developer · 42 Barcelona Student · Business and management</b><br>
   <i>Solving problems from scratch — and learning in the process.</i>
 </p>
 
 ---
 
 I learned C as my first programming language, which gave me a deep understanding of how computers work at a low level — from memory management and pointers to system calls and process communication. 
-This foundation has helped me build a strong mental model of how software interactsat low level, and allowed me to better understand operating systems, networking, and backend systems.
+This foundation has helped me build a strong mental model of how software interactsat low level, and allowed me to better understand operating systems, networking, and backend architecture.
 
 ## 🚀 About Me
 
@@ -23,8 +23,8 @@ This foundation has helped me build a strong mental model of how software intera
 ## 🔧 Tech Stack
 
 ```bash
-Languages:       C, C++, JavaScript (basic), Python, PostgreSQL, Bash
-Frameworks:      Django, React
+Languages:       C, C++, JavaScript, Python, SQL
+Frameworks:      Django, numpy, FastAPI, PostgreSQL, MariaDB
 Tools:           Docker, nginx, Wordpress, Git/Github, Postman, Linux
 ```
 ## 📈 Currently Exploring
@@ -32,6 +32,6 @@ Tools:           Docker, nginx, Wordpress, Git/Github, Postman, Linux
 I'm always working to grow as a backend engineer. 
 Here are some of the technologies and concepts I'm currently diving or mastering:
 ```bash
-📌 Languages & Frameworks:   Java, Spring Boot, Python (FastAPI), Go
+📌 Languages & Frameworks:   Java, Spring Boot, Go, php
 ☁️ Cloud & DevOps:           AWS (EC2, S3, RDS), GitHub Actions
 ```
