@@ -1,8 +1,7 @@
 <h1 align="center">Hey there! I'm Paulus 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · ADE Graduate · Student @ 42 Barcelona</b><br>
-  <i>Building tools with real-world impact — and learning deeply along the way.</i>
+  <b>Backend Developer · Business Administration Graduate · Student @ 42 Barcelona</b><br>
 </p>
 
 ---
